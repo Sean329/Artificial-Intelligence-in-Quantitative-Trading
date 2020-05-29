@@ -1,4 +1,4 @@
-# Artificial-Intelligence-in-Quantitative-Trading
+# Quant Trading Strategies
 
 Build strategies for algo trading
 
